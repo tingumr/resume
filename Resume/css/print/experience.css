@@ -1,0 +1,77 @@
+#workExperience
+{
+padding-top: 20px;
+}
+
+.project
+{
+padding-top: 15px;
+}
+
+.evalue
+{
+display:block;
+width:70%;
+}
+
+.responsibilities
+{
+width:70%;
+position:relative;
+left:170px;
+}
+
+.experience
+{
+padding-top: 15px;
+}
+
+.project_technologies
+{
+width:70%;
+position:relative;
+left:200px;
+}
+
+.bulleted_info_extra
+{
+position:relative;
+}
+.info_extra
+{
+position:relative;
+left:195px;
+width:75%;
+}
+.wlabel
+{
+position:relative;
+top:19px;
+width:200px;
+font-weight:bold;
+}
+
+.wevalue
+{
+width:70%;
+position:relative;
+left:200px;
+}
+
+.company_name
+{
+font-weight:bold;
+font-size:110%;
+}
+
+.divider1
+{
+margin-top: 10px;
+height:1px;
+background-color: #99aaDD;
+border-color: #BBBBFF;
+border-style:thin;
+border-width:medium;
+
+
+}

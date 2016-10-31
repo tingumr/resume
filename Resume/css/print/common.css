@@ -1,0 +1,53 @@
+
+body{
+margin:0 0px 0px 0px;
+font-family: courier new;
+width:90%;
+}
+
+
+.label
+{
+float:left;
+width:200px;
+font-weight:bold;
+}
+
+.heading2
+{
+font-size: medium;
+font-weight:bold;
+background-color: #99aaDD;
+padding-left: 20px;
+margin-bottom: 2px;
+width:100%;
+border-style:solid;
+font-weight:bold;
+border-width:thin;
+border-color: #BBBBFF;
+}
+
+.heading3
+{
+
+font-weight:bold;
+padding-left: 20px;
+}
+
+.info
+{
+padding-top: 2px;
+padding-left: 20px;
+}
+
+.heading3_project
+{
+border-color: #BBBBFF;
+background-color: #DDDDFF;
+font-weight:bold;
+padding-left: 20px;
+border-style:solid;
+font-weight:bold;
+border-width:thin;
+
+}

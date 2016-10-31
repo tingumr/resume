@@ -1,0 +1,49 @@
+
+body{
+
+margin:0 10px 0px 10px;
+padding-left: 20px;
+font-family: courier new, serif;
+}
+
+
+.label
+{
+float:left;
+width:200px;
+font-weight:bold;
+}
+
+.heading2
+{
+font-size: medium;
+font-weight:bold;
+background-color: #99aaDD;
+padding:4px;
+padding-left: 20px;
+margin-bottom: 2px;
+/*background: url(images/rain.gif);*/
+
+}
+
+.heading3
+{
+font-weight:bold;
+padding-left: 20px;
+}
+
+.heading3_project
+{
+font-weight:bold;
+padding:4px;
+padding-left: 20px;
+
+background-color: #DDDDFF;
+}
+
+.info
+{
+padding-top: 2px;
+padding-left: 20px;
+}
+

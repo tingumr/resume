@@ -1,0 +1,896 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="resume.xsl"?>
+<resume xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation = "resume.xsd">
+	<title>Resume</title>
+	<summary>
+		<info>Experience architecting  enterprise applications for eCommerce and large scale data processing. </info>
+		<info>ATG Commerce Certified consultant with over 8 years of professional experience in developing B2B and B2C Commerce web applications and Enterprise Application Integration.</info>
+		<info>Strong Object Oriented Analysis and Design skills, expertise in UML, Patterns, Software development methodologies.</info>
+		<info>Agile practitioner who has experience in Technical Training and Team leadership.</info>
+		<info>Expertise through out the software development life cycle.</info>
+	</summary>
+	<personalInfo>
+		<name>Tingu Ravi</name>
+		<DOB>05-07-1979</DOB>
+		<addressCommunication>
+			<AddressLine>14926</AddressLine>
+			<AddressLine>69 Ave</AddressLine>
+			<AddressLine></AddressLine>
+			<City>Surrey</City>
+			<State>British Columbia</State>
+			<Country>Canada</Country>
+			<zip>V3S0Y8</zip>
+		</addressCommunication>
+		<addressPremanent>
+			<AddressLine>14926</AddressLine>
+			<AddressLine>69 Ave</AddressLine>
+			<AddressLine></AddressLine>
+			<City>Surrey</City>
+			<State>British Columbia</State>
+			<Country>Canada</Country>
+			<zip>V3S0Y8</zip>
+		</addressPremanent>
+		<phone>778 865 5368</phone>
+		<email>tingumr@yahoo.com</email>
+		<citizenship>Canadian Permanent Resident,Indian</citizenship>
+		<passportno>B0784312</passportno>
+		<gender>Male</gender>
+	</personalInfo>
+	<education>
+		<course>
+			<name>Machine Learning</name>
+			<startDate>2016</startDate>
+			<endDate>2016</endDate>
+			<grade>97 %</grade>
+			<institution>
+				<name>Stanford University - Coursea</name>
+				<addressPremanent>
+					<AddressLine>https://www.coursera.org/account/accomplishments/certificate/X22Z3WV3EWWX</AddressLine>
+					<City>Coursea</City>
+					<State>Coursea</State>
+					<Country>Coursea</Country>
+					<zip/>
+				</addressPremanent>
+			</institution>
+		</course>
+		<course>
+			<name>Masters in Compuer Science</name>
+			<startDate>2001</startDate>
+			<endDate>2003</endDate>
+			<grade>9.1 CGPA</grade>
+			<institution>
+				<name>Vellore Institute of Technology</name>
+				<addressPremanent>
+					<AddressLine>VIT</AddressLine>
+					<City>Vellore</City>
+					<State>Tamil Nadu</State>
+					<Country>India</Country>
+					<zip/>
+				</addressPremanent>
+			</institution>
+		</course>
+		<course>
+			<name>Bachelor Of Computer Application </name>
+			<startDate>1998</startDate>
+			<endDate>2000</endDate>
+			<grade>69%</grade>
+			<institution>
+				<name>Mahathma Gandhi University</name>
+				<addressPremanent>
+					<AddressLine>Kottayam</AddressLine>
+					<City/>
+					<State>Kerala</State> 
+					<Country>India</Country>
+					<zip/>
+				</addressPremanent>
+			</institution>
+		</course>
+	</education>
+	<workExperience>
+		<experience>
+			<designation>Software Architect/Founder</designation>
+			<company>
+				<name>Rigabyte Inc</name>
+				<addressPremanent>
+					<AddressLine>10180 153st</AddressLine>
+					<City>Surrey</City>
+					<State>British Columbia</State>
+					<Country>Canada</Country>
+					<zip>V3R 0B5</zip>
+				</addressPremanent>
+			</company>
+			<startDate>07 2014</startDate>
+			<endDate>Currently Working</endDate>
+			<project>
+				<name>Rigabyte</name>
+				<description>Help design and architect a cloud based log management service from the ground up.</description>
+				<startDate>Jul 2014</startDate>
+				<endDate>Oct 2016</endDate>
+				<URL>http://www.rigabyte.com</URL>
+				<responsibilities>Design the architecture for a high volume log management service.</responsibilities>
+				<responsibilities>Set up the production environment on Amazon EC2</responsibilities>
+				<responsibilities>Customize Apache Lucene to support high volume of log data processing.</responsibilities>
+				<responsibilities>Design and implement agents that collect and deliver data to a cloud service.</responsibilities>
+				<responsibilities>Design framework for automated UI tests, integration tests and performance tests.</responsibilities>
+				<technology>
+					<name>Apache Lucene</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Amazon AWS</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Memcached</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Jquery</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Selenium</name>
+					<proficiency/>
+				</technology>
+			</project>
+		</experience>
+	<experience>
+			<designation>Senior Principal Consultant</designation>
+			<company>
+				<name>Oracle Canada</name>
+				<addressPremanent>
+					<AddressLine>505 Burrard Street</AddressLine>
+					<City>Vancouver</City>
+					<State>British Columbia</State>
+					<Country>Canada</Country>
+					<zip>V7X 1M5</zip>
+				</addressPremanent>
+			</company>
+			<startDate>12 2011</startDate>
+			<endDate>07 2014</endDate>
+			<project>
+				<name>Exito</name>
+				<description>Help Exito fix problems with their production architecture for exito.com and ensure exito is able scale to  their fast growing internet traffic.</description>
+				<startDate>Jan 2011</startDate>
+				<endDate>Jul 2014</endDate>
+				<client>Almacenes Éxito S.A</client>
+				<URL>http://exito.com</URL>
+				<responsibilities>Help migration exito.com from ATG 9.4 to ATG 10.2 and Endeca.</responsibilities>
+				<responsibilities>Setup new production / QA environment for the migrated application.</responsibilities>
+				<responsibilities>Helped stabilize exito.com after a period of poor stability during the 2011 holiday season(Oct -Dec).</responsibilities>
+				<responsibilities>Make architectural changes to exito.com to help with long term scalability. </responsibilities>	
+				<responsibilities>Help guide a team of 3 developers to implement a number of important change requests for exito.com</responsibilities>
+				<responsibilities>Assist Exito do develop inhouse development capability and infrastructure without depending on their existing SI.</responsibilities>
+				<responsibilities>Help exito with load tests to ensure no problems during their Holiday season.</responsibilities>
+				<responsibilities>Migrate exito.com from ATG 9.0 to 9.4</responsibilities>
+				<technology>
+					<name>ATG 9.4</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>ATG 10.2</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Endeca</name>
+					<proficiency/>
+				</technology>
+			</project>
+		</experience>
+	<experience>
+			<designation>Tech Lead</designation>
+			<company>
+				<name>Global Tech Consultants Inc</name>
+				<addressPremanent>
+					<AddressLine>3025 Habor LN N</AddressLine>
+					<City>Plymouth</City>
+					<State>MN</State>
+					<Country>USA</Country>
+					<zip/>
+				</addressPremanent>
+			</company>
+			<startDate>02 2010</startDate>
+			<endDate>11 2011</endDate>
+			<project>
+				<name>Wal-Mart Titan/UK Goceries/GM Canada</name>
+				<description> Provide ATG support and oversight for teams working across 3 different projects - UK Groceries, Titan, GM Canada. Pro actively review work done by SI for Wal-Mart and provide recommendations.	</description>
+				<startDate>Feb 2010</startDate>
+				<endDate>July 2010</endDate>
+				<client>Wal-Mart</client>
+				<URL>http://groceries.asda.com</URL>
+				<responsibilities>Traveled to India to give ATG Training to Wal-Mart architects.</responsibilities>
+				<responsibilities>Provide performance turning recommendations to help speed up offline order processing.</responsibilities>	
+				<responsibilities>Review Search architecture and code written by Wipro for Wal-Mart.</responsibilities>
+				<responsibilities>Helped evaluate ATG Dust as a suitable unit testing framework for the project.</responsibilities>
+				<responsibilities>Act as SME for ATG for holiday readyness testing work being carried out by Wal-Mart in association with Keynote.</responsibilities>
+				<technology>
+					<name>ATG 9.1</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>ATG DUST</name>
+					<proficiency/>
+				</technology>
+			</project>
+			<project>
+				<name>TESCO Change Program</name>
+				<description> Review design documents, help architect solutions and provide oversight  for work being done by Infosys for Tesco.
+				</description>
+				<startDate>June 2009</startDate>
+				<endDate>December 2009</endDate>
+				<client>TESCO - Infosys</client>
+				<URL>http://www.tesco.com</URL>
+				<responsibilities>Worked on detailed design for implementing the different payment tenders supported - Credit Card, Buy Now Pay Later, Gift Card, Voucher</responsibilities>
+				<responsibilities>Worked on detailed design for eCoupon, eWallet implementation</responsibilities>	
+				<responsibilities>Review code developed by the commerce team, provide feed back to the team regarding ATG Best Practices and performance tuning suggestions.</responsibilities>
+				<responsibilities>Establish unit testing framework using ATG Dust in order to implement automated unit tests that can be run from a continuous integration server.</responsibilities>
+				<responsibilities>Provide support the the CSC,Knowledge and SelfService team related to ATG Search setup</responsibilities>
+				<responsibilities>Provide support to the CSC, CampaignManagement and Commerce teams on blocking technical issues.</responsibilities>
+				<technology>
+					<name>ATG 9.1</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>ATG DUST</name>
+					<proficiency/>
+				</technology>
+			</project>
+			<project>
+				<name>Wal-Mart International</name>
+				<description> Wal-Mart wants to migrate their existing asda.co.uk website to use the ATG Platform, the project uses ATG Commerce, ATG CSC, ATG Search, ATG CA. 
+				</description>
+				<startDate>Sep 2008</startDate>
+				<endDate>April 2009</endDate>
+				<client>Wal-Mart</client>
+				<URL>groceries.asda.com</URL>
+				<responsibilities>Work on Behalf of ATG Professional Services to provide support to the Wal-Mart/Wipro development team to implement ATG Search 2007.1 </responsibilities>
+				<responsibilities>Work on troubleshooting ATG Search specific environment issues that was causing the search engine to be unstable.</responsibilities>	<responsibilities>Provide recommendations to optimize search for fast response time and throughput on Sun T5220 hardware.</responsibilities>
+				<responsibilities>Help the search team to make the search results more relevant to the keyword searched.</responsibilities>
+				<responsibilities>Implement custom Cache to speed up search results and reduce hits to the search engine.</responsibilities>
+				<responsibilities>Help the team to speed up the  search indexing process, make sure that appropriate caches are warmed up before the process starts.</responsibilities>
+				<responsibilities>Work with ATG support to help the Wipro development team with product issues.</responsibilities>
+				<responsibilities>Help the Wipro CSC team to identify and troubleshoot performance issues.</responsibilities>
+				<responsibilities>Validate the Production/Staging Search Environment for ASDA.</responsibilities>
+				<technology>
+					<name>ATG Search 2007.1</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>ATG CSC</name>
+					<proficiency/>
+				</technology>
+			</project>
+		</experience>
+	<experience>
+			<designation>Senior Developer</designation>
+			<company>
+				<name>Blast Radius</name>
+				<addressPremanent>
+					<AddressLine>1146 Homer Street</AddressLine>
+					<City>Vancouver</City>
+					<State>British Columbia</State>
+					<Country>Canada</Country>
+					<zip/>
+				</addressPremanent>
+			</company>
+			<startDate>09 2005</startDate>
+			<endDate>10 2008</endDate>
+			<project>
+				<name>Cox Emergence</name>
+				<description>Cox wants to redesign their current website to provide seamless locale specific access to all their customers and also integrate their diverse content under a single web site. Cox has hired a team from BlastRadius to provide technical support in architecting and implementing the solution.</description>
+				<startDate>May 2008</startDate>
+				<endDate>Currently Working</endDate>
+				<client>Cox Communications</client>
+				<URL>www.cox.com</URL>
+				<responsibilities>Responsible for architecting a framework for the Cox application using JSF, Facelets, Seam.</responsibilities>
+				<responsibilities>Work on a proof of concept to validate the CMS architecture that involves extending the Facelets components and propose improvements.</responsibilities>
+				<technology>
+					<name>JSF</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Facelets</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>JBoss Seam</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Cruise Control</name>
+					<proficiency/>
+				</technology>
+			</project>
+			<project>
+				<name>Jenny Craig</name>
+				<description>Jenny Craig commissioned Blast Radius to redesign their entire web experience in order to provide a seamless user experience between their website, highstreet stores and call centres. This project involved a complete overhaul of their web technology platform for which ATG was chosen. I was the Technology Architect on this project since October 2007.</description>
+				<startDate>January 2007</startDate>
+				<endDate>May 2008</endDate>
+				<client>Jenny Craig</client>
+				<URL>www.jennycraig.com</URL>
+				<responsibilities>Responsible for the design and implementation of the integration architecture between all the Jenny Craig subsystems and the website, including implementation of 19 different SOAP based interfaces</responsibilities>
+				<responsibilities>Improved the overall delivery efficiency by implementing a continuous integration server using Cruise Control, coordinating stress testing activities and closely engaging the client throughout the project.</responsibilities>
+				<responsibilities>Configured the development and production infrastructure instances including set-up of Apache web server, diagnosing firewall &amp; load balancer issues and debugging servlet engine performance problems</responsibilities>
+				<responsibilities>Manged the day to day operations of the development team including task assignment, code reviews and issue resolution with the Jenny Craig client.</responsibilities>
+				<responsibilities>Set up Jenny Craig Staging environment with 4 jboss instances , 2 apache instances and a Load Balancer.</responsibilities>
+				<technology>
+					<name>ATG 2006.3</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>JBoss</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Apache Axis</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Cruise Control</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>eStara Click To Call</name>
+					<proficiency/> 
+				</technology>
+			</project>
+
+			<project>
+				<name>Newell Rubbermaid</name>
+				<description>Newell wanted to have a highly extensible and available architecture to support all their brands and a robust framework for integrating all the associated 3rd party service providers. The proof of concept aimed to validate the architecture proposed by BlastRadius. This involved integrating an ATG Commerce website with SAP, DHL and Veritax using an ESB.</description>
+				<startDate>October 2006</startDate>
+				<endDate>December 2006</endDate>
+				<client>Newell Rubbermaid</client>
+				<responsibilities>Analyse the capabilities provided by service mix, design and implement custom Service Engines when required.</responsibilities>
+				<responsibilities>Use Service Mix for exposing 3rd party services as SOA Services accessable over the ESB, these include Veritax, DHL and SAP</responsibilities>
+				<technology>
+					<name>Service Mix</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>ATG B2C Commerce</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>SOAP</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>JMS</name>
+					<proficiency/>
+				</technology>
+			</project>
+			<project>
+				<name>Esselte</name>
+				<description>Esselte required support to maintain and enhance websites for various Esselte brands including Xyron, Pendaflex, Dymo. Esselte web application used Micorsoft .Net to implement their presentation tier and ATG Commerce for backend services. .Net used SOAP services exposed by ATG for handling all the business logic.</description>
+				<startDate>July 2006</startDate>
+				<endDate>September 2006</endDate>
+				<client>Esselte</client>
+				<URL>www.dymo.com</URL>
+				<responsibilities>Design and implement ATG SOAP services based on requirements of the .Net presentation layer.</responsibilities>
+				<responsibilities>Coordinate with the different 3rd party fulfillment services used by Esselte to help resolve integration issues. Esselte brands use the following 3rd party services Sykes, P21, Remedy.</responsibilities>
+				<responsibilities>Implement integrations with Verisign for Credit card processing, Taxware for taxcalculations.</responsibilities>
+				<technology>
+					<name>ATG B2C Commerce</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>SOAP</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Apache Axis</name>
+					<proficiency/>
+				</technology>
+			</project>
+			<project>
+				<name>Sage Publications</name>
+				<description>The project involves developing a web application for Sage Publications, the project involves developing 5 web sites that runs out of the same code base.</description>
+				<startDate>October 2005</startDate>
+				<endDate>July 2006</endDate>
+				<client>Sage Publications</client>
+				<URL>http://www.sagepub.com/</URL>
+				<responsibilities>Work on all profile related use cases, help to customize the purchase process to support requests for inspection copies of books.</responsibilities>
+				<technology>
+					<name>ATG B2BCommerce</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>JBoss</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Spring</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>XStream API</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Oracle</name>
+					<proficiency/>
+				</technology>
+			</project>
+		</experience>
+		<experience>
+			<designation>Assistant System Engineer</designation>
+			<company>
+				<name>Tata Consultancy Services Limited</name>
+				<addressPremanent>
+					<AddressLine>White Field</AddressLine>
+					<City>Bangalore</City>
+					<State>Karnataka</State>
+					<Country>India</Country>
+					<zip/>
+				</addressPremanent>
+			</company>
+			<startDate>AUG 2004</startDate>
+			<endDate>AUG 2005</endDate>
+			<project>
+				<name>ProjectM</name>
+				<description>Philips wanted to migrate existing EDI business processes with their B2B trading partners from TIBCO Integration manager to TIBCO Business Works. TCS had a distributed team with developers working out of  Bangalore, Eindhoven and San Jose  The project involved migrating and developing processes for Mapping IDOCs, EDIFACT and  RosettaNet PIP messages from more than 15 different  B2B Trading partners to Philips internal applications.</description>
+				<startDate>DEC 2004</startDate>
+				<endDate>AUG 2005</endDate>
+				<client>Philips CE</client>
+				<responsibilities>Migrate all B2B process between Philips and Nokia from TIBCO Integration Manager to TIBCO Business Works 5.2</responsibilities>
+				<responsibilities>Manage the communication with Business Analysts in San Jose to make sure the message transformations are functionally correct.</responsibilities>
+				<technology>
+					<name>Tibco Business Works 5.2</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Turbo XML</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>XML Canon</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Toad</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Oracle</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Eclipse</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Apache Tomcat</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>XML, XSL, XPath, XSLT</name>
+					<proficiency/>
+				</technology>
+			</project>
+			<project>
+				<name>POC for Citi Diners Club Japan</name>
+				<description>CitiDiners Club wanted the proof of concept mostly to validate that TCS had the skills and resources to design and implement a web application using the ATG framework. The proof of concept had to build an ATG web application for carryingout file system operations using Ajax and secure transfer of files over HTTPS.</description>
+				<startDate>OCT 2004</startDate>
+				<endDate>DEC 2004</endDate>
+				<client>Citi Diners Club Japan</client>
+				<responsibilities>Train TCS resources to use ATG.</responsibilities>
+				<responsibilities>Create Analysis and Design level UML artifacts.</responsibilities>
+				<responsibilities>Use Open SSL tool to create certificate authority and SSL certificates.</responsibilities>
+				<responsibilities>Configure ATG to run over SSL</responsibilities>
+				<technology>
+					<name>ATG Dynamo</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>ATG Relationship Management Platform</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Open SSL</name>
+					<proficiency/>
+				</technology>
+			</project>
+			<project>
+				<name>Business Balance Score Card Portal</name>
+				<description>Develop ATG Portal application for Real time Business Balance Score Card for TCS Philips CE Competency Center.</description>
+				<startDate>AUG 2004</startDate>
+				<endDate>OCT 2004</endDate>
+				<client>Philips CE</client>
+				<responsibilities> Developed ATG Portal Gear for displaying dynamic charts based on real time data.</responsibilities>
+				<responsibilities> Used the JFreeChart API for developing the charts.</responsibilities>
+				<responsibilities>Design Item descriptors and database schema. </responsibilities>
+				<responsibilities>Set up development environment and CVS server.</responsibilities>
+				<responsibilities>Help give training to junior developers on ATG Relationship Management Platform.</responsibilities>
+				<technology>
+					<name>ATG Portal Server</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>JFree Chart</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Oracle</name>
+					<proficiency/>
+				</technology>
+			</project>
+		</experience>
+		<experience>
+			<designation>Technical Lead</designation>
+			<company>
+				<name>Al-Faris Information Technologies</name>
+				<addressPremanent>
+					<AddressLine>Chamber of Commerce and Industry Building</AddressLine>
+					<City>Kuwait City</City>
+					<State/>
+					<Country>Kuwait</Country>
+					<zip/>
+				</addressPremanent>
+			</company>
+			<startDate>August 2003</startDate>
+			<endDate>August 2004</endDate>
+			<project>
+				<name>icoop</name>
+				<description>iCoop is a packed product build using the ATG Platform used by co-ops as an electronic marketplace for their goods. Currently the service is used by the Shuwaikh, Shamiya, and Mishref  co-ops in Kuwait.</description>
+				<startDate>January 2004</startDate>
+				<endDate>August 2004</endDate>
+				<client>Ministry of Commerce</client>
+				<URL>http://www.icoop.com</URL>
+				<responsibilities>Helped to implement an iterative software development methodology for the project.</responsibilities>
+				<responsibilities>Develop structural and behavioural UML artefacts for catalog management and purchase process modules.</responsibilities>
+				<responsibilities>Support the team to design and  implemented custom functionality to replicate parts of the product catalog so that new merchants do not have to build their catalog from scratch.</responsibilities>
+				<responsibilities>Develop automated stress test for the web application using JMeter.</responsibilities>
+				<responsibilities>Carry out payment system integration for icoop with KNET payment gateway.</responsibilities>
+				<responsibilities>Develop well defined process for migrating ATG applications from Dynamo to IBM WebSphere Application Server 5.0.2</responsibilities>
+				<technology>
+					<name>B2C Commerce</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Eclipse</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Oracle</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>IBM WebSphere Application Server 5.0.2 </name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Open SSL</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>ATG Scenarios</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>ATG Personalization</name>
+					<proficiency/>
+				</technology>
+			</project>
+			<project>
+				<name>eTajer</name>
+				<description>eTajer is a b2b and b2c application created for businesses that primarily sell goods and want to build a fully commerce-enabled Web presence. It has an easy-to-use commerce wizard, store editing and management, catalog maintenance, order management as well as back-office management tools. Powered by ATG, eTajer’s other functions include Campaign Manager, Order tracking and a fully secure payment system. A unique Auctioning feature enables merchants to conduct online auctions for their wares, as well as bid for wholesale wares put on auction by other merchants.</description>
+				<startDate>August 2003</startDate>
+				<endDate>January 2004</endDate>
+				<client>Ministry of Commerce</client>
+				<URL>http://www.etajer.net</URL>
+				<responsibilities>Improved Software Engineering practices at Al-Faris by helping to implement an iterative OOAD process and assisting the team develop capability to translate UML models to code.</responsibilities>
+				<responsibilities>Did the analysis and design work for integrating an auction module for eTajer.</responsibilities>
+				<responsibilities>Helped provide better time and cost estimates using Use Case point estimation.</responsibilities>
+				<responsibilities>Develop all structural and behavioral UML artifacts.</responsibilities>
+				<responsibilities>Make sure the project follows Mini RUP methodology, define the required iterations.</responsibilities>
+				<technology>
+					<name>B2B Commerce</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Eclipse</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>IBM WebSphere Application Server 5.0.2</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>ANT</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Rational Rose</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>YKap</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Novell eDirectory</name>
+					<proficiency/>
+				</technology>
+			</project>
+		</experience>
+		<!-- <experience>
+			<designation>Java Programmer</designation>
+			<company>
+				<name>Associated Business Consultants</name>
+				<addressPremanent>
+					<AddressLine></AddressLine>
+					<City>Thrissur</City>
+					<State>Kerala</State>
+					<Country>India</Country>
+					<zip/>
+				</addressPremanent>
+			</company>
+			<startDate/>
+			<endDate>12 Months</endDate>
+			<project>
+				<name>EYP</name>
+				<description>Develop web based yellow pages web site where businesses can present useful information in an easily searchable format.</description>
+				<client>eYellowPages</client>
+				<responsibilities>Design the templates to be used for the web site.</responsibilities>
+				<responsibilities>Develop Java applets to enable category wise navigation of web site contents.</responsibilities>
+				<technology>
+					<name>JCreator</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Front Page</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Sybase</name>
+					<proficiency/>
+				</technology>
+			</project>
+			<project>
+				<name>Pedal Control</name>
+				<description>Software to control operation of foot pedal used to control playback of recorded medical transcription files.</description>
+				<client>Modern School of Medical Transcription</client>
+				<responsibilities>Develop module that polls the game port of the PC to detect pressed footpedal switches.</responsibilities>
+				<responsibilities>Develop module that interfaces the foot pedal input to 'winamp' a popular software used for mp3 playback.</responsibilities>
+				<responsibilities>Develop module to correct header of recorded .wav files to enable playback in 'winamp'.</responsibilities>
+				<technology>
+					<name>VC++</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Assembly Language</name>
+					<proficiency/>
+				</technology>
+			</project>
+		</experience>
+		 -->
+	</workExperience>
+	<skills>
+		<technologyArea>
+			<name>ATG</name>
+			<technology>
+				<name>B2BCommerce</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>B2CCommerce</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>ATG Personalization</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>ATG Scenarios</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>ATG Search</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>ATG CA</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>ATG DUST</name>
+				<proficiency/>
+			</technology>
+		</technologyArea>
+		<technologyArea>
+			<name>J2EE</name>
+			<technology>
+				<name>JSF</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Facelets</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>JSP</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Servlets</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>RMI</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>JDBC</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>JNDI</name>
+				<proficiency/>
+			</technology>
+		</technologyArea>
+		<!-- technologyArea>
+			<name>EAI</name>
+			<technology>
+				<name>ESB Service Mix</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>TIBCO Business Works 5.2</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name> TIBCO Designer 5.2</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>TIBCO Adapter SDK</name>
+				<proficiency/>
+			</technology>
+		</technologyArea -->
+		<technologyArea>
+			<name>Application Servers</name>
+			<technology>
+				<name>ATG Dynamo</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>IBM Websphere</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>JBoss</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Apache Tomcat</name>
+				<proficiency/>
+			</technology>
+		</technologyArea>
+		<technologyArea>
+			<name>Database</name>
+			<technology>
+				<name>Oracle</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>MySQL</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Microsoft SQL</name>
+				<proficiency/>
+			</technology>
+		</technologyArea>
+		<!-- technologyArea>
+			<name>CASE Tools</name>
+			<technology>
+				<name>Rational Rose</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>UML Toolkit</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Poseidon</name>
+				<proficiency/>
+			</technology>
+		</technologyArea -->
+		<technologyArea>
+			<name>Programming Languages</name>
+			<technology>
+				<name>Java</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>C++</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Assembly Language</name>
+				<proficiency/>
+			</technology>
+		</technologyArea>
+		<technologyArea>
+			<name>XML Technologies</name>
+			<technology>
+				<name>XSL</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>XPath</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>XSLT</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>XSD</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>XForms</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>SOAP</name>
+				<proficiency/>
+			</technology>
+		</technologyArea>
+		<technologyArea>
+			<name>Tools and Utilities</name>
+			<technology>
+				<name>Eclipse</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Tensor Flow</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>SVN</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Ant</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>JUnit</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>JMeter</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Eclipse Memory Analyzer</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Amazon AWS</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Cruise Control</name>
+				<proficiency/>
+			</technology>
+		</technologyArea>
+	</skills>
+	<certifications>
+		<certification>
+			<name>ATG Certified Commerce Developer</name>
+			<date>September 2006</date>
+		</certification>
+		<certification>
+			<name>ATG Certified Relationship Management Developer</name>
+			<date>May 2006</date>
+		</certification>
+		<certification>
+			<name>Sun Certified Java Programmer</name>
+			<date>June 2001</date>
+		</certification>
+	</certifications>
+</resume>
