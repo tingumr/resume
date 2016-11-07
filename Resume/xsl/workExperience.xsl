@@ -127,7 +127,7 @@
 		<div class="project">
 			
 			<div class="info">
-				<span class="label">
+				<span class="label projectName">
 				Project
 				</span>
 				

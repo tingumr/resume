@@ -4,7 +4,7 @@
 	<title>Resume</title>
 	<summary>
 		<info>Experience architecting  enterprise applications for eCommerce and large scale data processing. </info>
-		<info>ATG Commerce Certified consultant with over 8 years of professional experience in developing B2B and B2C Commerce web applications and Enterprise Application Integration.</info>
+		<info>ATG Commerce Certified consultant with over 10 years of professional experience in developing B2B and B2C Commerce web applications and Enterprise Application Integration.</info>
 		<info>Strong Object Oriented Analysis and Design skills, expertise in UML, Patterns, Software development methodologies.</info>
 		<info>Agile practitioner who has experience in Technical Training and Team leadership.</info>
 		<info>Expertise through out the software development life cycle.</info>
@@ -697,6 +697,10 @@
 				<name>ATG DUST</name>
 				<proficiency/>
 			</technology>
+			<technology>
+				<name>Endeca</name>
+				<proficiency/>
+			</technology>
 		</technologyArea>
 		<technologyArea>
 			<name>J2EE</name>
@@ -729,7 +733,7 @@
 				<proficiency/>
 			</technology>
 		</technologyArea>
-		<!-- technologyArea>
+		<technologyArea>
 			<name>EAI</name>
 			<technology>
 				<name>ESB Service Mix</name>
@@ -747,7 +751,7 @@
 				<name>TIBCO Adapter SDK</name>
 				<proficiency/>
 			</technology>
-		</technologyArea -->
+		</technologyArea>
 		<technologyArea>
 			<name>Application Servers</name>
 			<technology>
