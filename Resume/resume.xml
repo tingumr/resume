@@ -279,7 +279,7 @@
 				<name>Cox Emergence</name>
 				<description>Cox wants to redesign their current website to provide seamless locale specific access to all their customers and also integrate their diverse content under a single web site. Cox has hired a team from BlastRadius to provide technical support in architecting and implementing the solution.</description>
 				<startDate>May 2008</startDate>
-				<endDate>Currently Working</endDate>
+				<endDate>Oct 2008</endDate>
 				<client>Cox Communications</client>
 				<URL>www.cox.com</URL>
 				<responsibilities>Responsible for architecting a framework for the Cox application using JSF, Facelets, Seam.</responsibilities>
