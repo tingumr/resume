@@ -88,7 +88,7 @@
 	</education>
 	<workExperience>
 		<experience>
-			<designation>Software Architect/Founder</designation>
+			<designation>Software Architect</designation>
 			<company>
 				<name>Rigabyte Inc</name>
 				<addressPremanent>
@@ -112,6 +112,8 @@
 				<responsibilities>Customize Apache Lucene to support high volume of log data processing.</responsibilities>
 				<responsibilities>Design and implement agents that collect and deliver data to a cloud service.</responsibilities>
 				<responsibilities>Design framework for automated UI tests, integration tests and performance tests.</responsibilities>
+				<responsibilities>Implement RESTful webservices required by the application.</responsibilities>
+				<responsibilities>Architect the noSQL persistance layer used by the application.</responsibilities>
 				<technology>
 					<name>Apache Lucene</name>
 					<proficiency/>
@@ -125,7 +127,7 @@
 					<proficiency/>
 				</technology>
 				<technology>
-					<name>Jquery</name>
+					<name>JQuery</name>
 					<proficiency/>
 				</technology>
 				<technology>
