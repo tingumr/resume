@@ -3,11 +3,9 @@
 <resume xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation = "resume.xsd">
 	<title>Resume</title>
 	<summary>
-		<info>Experience architecting  enterprise applications for eCommerce and large scale data processing. </info>
-		<info>ATG Commerce Certified consultant with over 10 years of professional experience in developing B2B and B2C Commerce web applications and Enterprise Application Integration.</info>
+		<info>Over 10 years of professional experience in developing B2B and B2C Commerce web applications and Enterprise Application Integration.</info>
 		<info>Strong Object Oriented Analysis and Design skills, expertise in UML, Patterns, Software development methodologies.</info>
 		<info>Agile practitioner who has experience in Technical Training and Team leadership.</info>
-		<info>Expertise through out the software development life cycle.</info>
 	</summary>
 	<personalInfo>
 		<name>Tingu Ravi</name>
@@ -814,7 +812,11 @@
 				<proficiency/>
 			</technology>
 			<technology>
-				<name>Assembly Language</name>
+				<name>Java Script</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Python</name>
 				<proficiency/>
 			</technology>
 		</technologyArea>
