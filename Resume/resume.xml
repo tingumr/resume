@@ -668,7 +668,7 @@
 	</workExperience>
 	<skills>
 		<technologyArea>
-			<name>ATG</name>
+			<name>Oracle Commerce</name>
 			<technology>
 				<name>B2BCommerce</name>
 				<proficiency/>
@@ -891,6 +891,14 @@
 			</technology>
 			<technology>
 				<name>Spring</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Apache Lucene</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Memcached</name>
 				<proficiency/>
 			</technology>
 		</technologyArea>
