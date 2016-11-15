@@ -846,7 +846,7 @@
 			</technology>
 		</technologyArea>
 		<technologyArea>
-			<name>Tools and Utilities</name>
+			<name>Other</name>
 			<technology>
 				<name>Eclipse</name>
 				<proficiency/>
@@ -860,7 +860,7 @@
 				<proficiency/>
 			</technology>
 			<technology>
-				<name>Ant</name>
+				<name>Git</name>
 				<proficiency/>
 			</technology>
 			<technology>
@@ -881,6 +881,14 @@
 			</technology>
 			<technology>
 				<name>Cruise Control</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>JQuery</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Spring</name>
 				<proficiency/>
 			</technology>
 		</technologyArea>
