@@ -4,7 +4,7 @@
 	<title>Resume</title>
 	<summary>
 		<info>Over 10 years of professional experience in developing B2B and B2C Commerce web applications and Enterprise Application Integration.</info>
-		<info>Strong Object Oriented Analysis and Design skills, expertise in UML, Patterns, Software development methodologies.</info>
+		<info>Consulting experience working with teams to scale and performance tune web applications with annual revenue in the Billions.</info>
 		<info>Agile practitioner who has experience in Technical Training and Team leadership.</info>
 	</summary>
 	<personalInfo>
@@ -28,8 +28,8 @@
 			<Country>Canada</Country>
 			<zip>V3S0Y8</zip>
 		</addressPremanent>
-		<phone>778 865 5368</phone>
-		<email>tingumr@yahoo.com</email>
+		<phone>604 442 0876</phone>
+		<email>travi@xray4j.com</email>
 		<citizenship>Canadian Permanent Resident,Indian</citizenship>
 		<passportno>B0784312</passportno>
 		<gender>Male</gender>
@@ -77,7 +77,7 @@
 				<addressPremanent>
 					<AddressLine>Kottayam</AddressLine>
 					<City/>
-					<State>Kerala</State> 
+					<State>Kerala</State>
 					<Country>India</Country>
 					<zip/>
 				</addressPremanent>
@@ -85,6 +85,89 @@
 		</course>
 	</education>
 	<workExperience>
+		<experience>
+		  <designation>Architect</designation>
+		  <company>
+		    <name>www.xray4j.com</name>
+		    <addressPremanent>
+		      <AddressLine>10180 153st</AddressLine>
+		      <City>Surrey</City>
+		      <State>British Columbia</State>
+		      <Country>Canada</Country>
+		      <zip>V3R 0B5</zip>
+		    </addressPremanent>
+		  </company>
+		  <startDate>16 Aug 2017</startDate>
+		  <endDate>Currently Working</endDate>
+		  <project>
+		    <name>www.xray4j.com</name>
+		    <description>Xray4j is a startup that has developed a new way for documenting / troubleshooting/ performance tuning Java applications by capturing control flow within a Java application and
+		representing it as a connected graph.</description>
+		    <startDate>Aug 2017</startDate>
+		    <endDate>Currently Working</endDate>
+				<client>Xray4j</client>
+		    <URL>https://www.xray4j.com</URL>
+		    <responsibilities>Design the over all architecture for xray4j.</responsibilities>
+		    <responsibilities>Implement the java agent and  aspects used to collect data from the JVM and save them to a file.</responsibilities>
+		    <responsibilities>Help implement the UI using angularjs.</responsibilities>
+		    <responsibilities>Design algorithms that represent the collected data from the JVM as easily understandable connected graphs.</responsibilities>
+		    <responsibilities>Implement code that displays the most expensive paths for the control flow within a JVM.</responsibilities>
+		    <technology>
+		      <name>JHipster</name>
+		      <proficiency/>
+		    </technology>
+		    <technology>
+		      <name>AngularJs</name>
+		      <proficiency/>
+		    </technology>
+		    <technology>
+		      <name>AspectJ</name>
+		      <proficiency/>
+		    </technology>
+		    <technology>
+		      <name>AWS EC2</name>
+		      <proficiency/>
+		    </technology>
+		    <technology>
+		      <name>AWS S3</name>
+		      <proficiency/>
+		    </technology>
+		  </project>
+		</experience>
+		<experience>
+		  <designation>Senior Technology Consultant</designation>
+		  <company>
+		    <name>SAP Canada</name>
+		    <addressPremanent>
+		      <AddressLine>910 Mainland St</AddressLine>
+		      <City>Vancouver</City>
+		      <State>British Columbia</State>
+		      <Country>Canada</Country>
+		      <zip>V6B 1A9</zip>
+		    </addressPremanent>
+		  </company>
+		  <startDate>12 Jan 2017</startDate>
+		  <endDate>15 Aug 2017</endDate>
+		  <project>
+		    <name>Levi Strauss &amp; Co</name>
+		    <description>Played the role of senior developer in the project that was implemented end to end by SAP Hybris.</description>
+		    <startDate>March 2017</startDate>
+		    <endDate>Aug 2017</endDate>
+				<client>Levi</client>
+		    <URL>https://www.levi.com/CA/en_CA/</URL>
+				<responsibilities>Developed tool to help team debug issues by browsing through beans in the spring context.</responsibilities>
+				<responsibilities>Work on integration with Responsys for sending emails.</responsibilities>
+		    <responsibilities>Work on the promotion module.</responsibilities>
+		    <technology>
+		      <name>SAP Hybris</name>
+		      <proficiency/>
+		    </technology>
+		    <technology>
+		      <name>Git</name>
+		      <proficiency/>
+		    </technology>
+		  </project>
+		</experience>
 		<experience>
 			<designation>Software Architect</designation>
 			<company>
@@ -98,12 +181,13 @@
 				</addressPremanent>
 			</company>
 			<startDate>07 2014</startDate>
-			<endDate>Currently Working</endDate>
+			<endDate>11 2016</endDate>
 			<project>
 				<name>Rigabyte</name>
 				<description>Help design and architect a cloud based log management service from the ground up.</description>
 				<startDate>Jul 2014</startDate>
 				<endDate>Oct 2016</endDate>
+				<client>Rigabyte Inc</client>
 				<URL>http://www.rigabyte.com</URL>
 				<responsibilities>Design the architecture for a high volume log management service.</responsibilities>
 				<responsibilities>Set up the production environment on Amazon EC2</responsibilities>
@@ -158,10 +242,10 @@
 				<responsibilities>Help migration exito.com from ATG 9.4 to ATG 10.2 and Endeca.</responsibilities>
 				<responsibilities>Setup new production / QA environment for the migrated application.</responsibilities>
 				<responsibilities>Helped stabilize exito.com after a period of poor stability during the 2011 holiday season(Oct -Dec).</responsibilities>
-				<responsibilities>Make architectural changes to exito.com to help with long term scalability. </responsibilities>	
+				<responsibilities>Make architectural changes to exito.com to help with long term scalability. </responsibilities>
 				<responsibilities>Help guide a team of 3 developers to implement a number of important change requests for exito.com</responsibilities>
 				<responsibilities>Assist Exito do develop inhouse development capability and infrastructure without depending on their existing SI.</responsibilities>
-				<responsibilities>Help exito with load tests to ensure no problems during their Holiday season.</responsibilities>
+				<responsibilities>Design and coordinate the  load tests to ensure no problems during their Holiday season.</responsibilities>
 				<responsibilities>Migrate exito.com from ATG 9.0 to 9.4</responsibilities>
 				<technology>
 					<name>ATG 9.4</name>
@@ -198,8 +282,7 @@
 				<endDate>July 2011</endDate>
 				<client>Wal-Mart</client>
 				<URL>http://groceries.asda.com</URL>
-				<responsibilities>Traveled to India to give ATG Training to Wal-Mart architects.</responsibilities>
-				<responsibilities>Provide performance turning recommendations to help speed up offline order processing.</responsibilities>	
+				<responsibilities>Provide performance turning recommendations to help speed up offline order processing.</responsibilities>
 				<responsibilities>Review Search architecture and code written by Wipro for Wal-Mart.</responsibilities>
 				<responsibilities>Helped evaluate ATG Dust as a suitable unit testing framework for the project.</responsibilities>
 				<responsibilities>Act as SME for ATG for holiday readyness testing work being carried out by Wal-Mart in association with Keynote.</responsibilities>
@@ -221,7 +304,7 @@
 				<client>TESCO - Infosys</client>
 				<URL>http://www.tesco.com</URL>
 				<responsibilities>Worked on detailed design for implementing the different payment tenders supported - Credit Card, Buy Now Pay Later, Gift Card, Voucher</responsibilities>
-				<responsibilities>Worked on detailed design for eCoupon, eWallet implementation</responsibilities>	
+				<responsibilities>Worked on detailed design for eCoupon, eWallet implementation</responsibilities>
 				<responsibilities>Review code developed by the commerce team, provide feed back to the team regarding ATG Best Practices and performance tuning suggestions.</responsibilities>
 				<responsibilities>Establish unit testing framework using ATG Dust in order to implement automated unit tests that can be run from a continuous integration server.</responsibilities>
 				<responsibilities>Provide support the the CSC,Knowledge and SelfService team related to ATG Search setup</responsibilities>
@@ -237,7 +320,7 @@
 			</project>
 			<project>
 				<name>Wal-Mart International</name>
-				<description> Wal-Mart wants to migrate their existing asda.co.uk website to use the ATG Platform, the project uses ATG Commerce, ATG CSC, ATG Search, ATG CA. 
+				<description> Wal-Mart wants to migrate their existing asda.co.uk website to use the ATG Platform, the project uses ATG Commerce, ATG CSC, ATG Search, ATG CA.
 				</description>
 				<startDate>Sep 2008</startDate>
 				<endDate>April 2009</endDate>
@@ -331,7 +414,7 @@
 				</technology>
 				<technology>
 					<name>eStara Click To Call</name>
-					<proficiency/> 
+					<proficiency/>
 				</technology>
 			</project>
 
@@ -808,10 +891,6 @@
 				<proficiency/>
 			</technology>
 			<technology>
-				<name>C++</name>
-				<proficiency/>
-			</technology>
-			<technology>
 				<name>Java Script</name>
 				<proficiency/>
 			</technology>
@@ -821,36 +900,9 @@
 			</technology>
 		</technologyArea>
 		<technologyArea>
-			<name>XML Technologies</name>
-			<technology>
-				<name>XSL</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>XPath</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>XSLT</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>XSD</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>XForms</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>SOAP</name>
-				<proficiency/>
-			</technology>
-		</technologyArea>
-		<technologyArea>
 			<name>Other</name>
 			<technology>
-				<name>Eclipse</name>
+				<name>AspectJ</name>
 				<proficiency/>
 			</technology>
 			<technology>
@@ -866,7 +918,7 @@
 				<proficiency/>
 			</technology>
 			<technology>
-				<name>JUnit</name>
+				<name>Dynatrace</name>
 				<proficiency/>
 			</technology>
 			<technology>
@@ -882,11 +934,7 @@
 				<proficiency/>
 			</technology>
 			<technology>
-				<name>Cruise Control</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>JQuery</name>
+				<name>JVisual VM</name>
 				<proficiency/>
 			</technology>
 			<technology>
