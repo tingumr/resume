@@ -751,37 +751,13 @@
 	</workExperience>
 	<skills>
 		<technologyArea>
-			<name>Oracle Commerce</name>
+			<name>eCommerce Frameworks</name>
 			<technology>
-				<name>B2BCommerce</name>
+				<name>Oracle ATG</name>
 				<proficiency/>
 			</technology>
 			<technology>
-				<name>B2CCommerce</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>ATG Personalization</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>ATG Scenarios</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>ATG Search</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>ATG CA</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>ATG DUST</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>Endeca</name>
+				<name>SAP Hybris</name>
 				<proficiency/>
 			</technology>
 		</technologyArea>
@@ -906,7 +882,7 @@
 				<proficiency/>
 			</technology>
 			<technology>
-				<name>Tensor Flow</name>
+				<name>Spring Framework</name>
 				<proficiency/>
 			</technology>
 			<technology>
