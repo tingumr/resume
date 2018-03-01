@@ -3,7 +3,7 @@
 <resume xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation = "resume.xsd">
 	<title>Resume</title>
 	<summary>
-		<info>Over 10 years of professional experience in developing B2B and B2C Commerce web applications and Enterprise Application Integration.</info>
+		<info>Over 10 years of professional experience in developing enterprise  web applications.</info>
 		<info>Consulting experience working with teams to scale and performance tune web applications with annual revenue in the Billions.</info>
 		<info>Agile practitioner who has experience in Technical Training and Team leadership.</info>
 	</summary>
@@ -886,7 +886,7 @@
 				<proficiency/>
 			</technology>
 			<technology>
-				<name>SVN</name>
+				<name>Angular</name>
 				<proficiency/>
 			</technology>
 			<technology>
