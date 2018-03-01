@@ -44,8 +44,6 @@
 	</div>
 
 		<div class="sun_logo">
-			<img src="images/ComCrop.gif" />
-			<img src="images/RMCrop.gif"  />
 			<img src="images/sun_logo_crop.gif"  />
 		</div>
 		<div>
