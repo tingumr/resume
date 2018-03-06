@@ -110,6 +110,7 @@
 		    <responsibilities>Implement the java agent and  aspects used to collect data from the JVM and save them to a file.</responsibilities>
 		    <responsibilities>Help implement the UI using angularjs.</responsibilities>
 				<responsibilities>Create AspectJ instrumentation configuration for ATG Commerce, Hybris, Broadleaf Commerce.</responsibilities>
+				<responsibilities>Gain enough exptertise with Vaadin8 to instrument Vaadin applications with aspects.</responsibilities>
 		    <responsibilities>Design algorithms that represent the collected data from the JVM as easily understandable connected graphs.</responsibilities>
 		    <responsibilities>Implement code that displays the most expensive paths for the control flow within a JVM.</responsibilities>
 		    <technology>
@@ -128,6 +129,10 @@
 		      <name>AWS EC2</name>
 		      <proficiency/>
 		    </technology>
+				<technology>
+					<name>Vaadin8</name>
+					<proficiency/>
+				</technology>
 		    <technology>
 		      <name>AWS S3</name>
 		      <proficiency/>
