@@ -108,17 +108,12 @@
 		    <URL>https://www.xray4j.com</URL>
 		    <responsibilities>Design the over all architecture for xray4j.</responsibilities>
 		    <responsibilities>Implement the java agent and  aspects used to collect data from the JVM and save them to a file.</responsibilities>
-		    <responsibilities>Help implement the UI using angularjs.</responsibilities>
+		    <responsibilities>Help implement the UI using AngularJS.</responsibilities>
 				<responsibilities>Create AspectJ instrumentation configuration for ATG Commerce, Hybris, Broadleaf Commerce.</responsibilities>
-				<responsibilities>Gain enough exptertise with Vaadin8 to instrument web applications using Vaadin with aspects.</responsibilities>
 		    <responsibilities>Design algorithms that represent the collected data from the JVM as easily understandable connected graphs.</responsibilities>
 		    <responsibilities>Implement code that displays the most expensive paths for the control flow within a JVM.</responsibilities>
 		    <technology>
 		      <name>JHipster</name>
-		      <proficiency/>
-		    </technology>
-		    <technology>
-		      <name>AngularJs</name>
 		      <proficiency/>
 		    </technology>
 		    <technology>
@@ -130,7 +125,7 @@
 		      <proficiency/>
 		    </technology>
 				<technology>
-					<name>Vaadin8</name>
+					<name>AngularJS</name>
 					<proficiency/>
 				</technology>
 		    <technology>
@@ -904,10 +899,6 @@
 			</technology>
 			<technology>
 				<name>JMeter</name>
-				<proficiency/>
-			</technology>
-			<technology>
-				<name>Vaadin8</name>
 				<proficiency/>
 			</technology>
 			<technology>
