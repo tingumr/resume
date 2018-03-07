@@ -910,6 +910,10 @@
 				<proficiency/>
 			</technology>
 			<technology>
+				<name>AngularJS</name>
+				<proficiency/>
+			</technology>
+			<technology>
 				<name>Spring</name>
 				<proficiency/>
 			</technology>
