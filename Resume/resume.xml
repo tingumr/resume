@@ -86,6 +86,21 @@
 	</education>
 	<workExperience>
 		<experience>
+			<designation>Technical Excellence Director</designation>
+			<company>
+				<name>Litmus7</name>
+				<addressPremanent>
+					<AddressLine>55 York Street, Suite 401</AddressLine>
+					<City>Toronto, Ontario</City>
+					<State>Ontario</State>
+					<Country>Canada</Country>
+					<zip>M5J 1R7</zip>
+				</addressPremanent>
+			</company>
+			<startDate>March 2018</startDate>
+			<endDate>Currently Working</endDate>
+		</experience>
+		<experience>
 		  <designation>Architect</designation>
 		  <company>
 		    <name>www.xray4j.com</name>
@@ -97,13 +112,13 @@
 		      <zip>V3R 0B5</zip>
 		    </addressPremanent>
 		  </company>
-		  <startDate>16 Aug 2017</startDate>
-		  <endDate>Currently Working</endDate>
+		  <startDate>Aug 2017</startDate>
+		  <endDate>Feb 2018</endDate>
 		  <project>
 		    <name>www.xray4j.com</name>
 		    <description>Xray4j is a startup that has developed a new way for documenting / troubleshooting/ performance tuning enterprise java applications like Oracle ATG Commerce, Hybris, Broadleaf Commerce.</description>
 		    <startDate>Aug 2017</startDate>
-		    <endDate>Currently Working</endDate>
+		    <endDate>Feb 2018</endDate>
 				<client>Xray4j</client>
 		    <URL>https://www.xray4j.com</URL>
 		    <responsibilities>Design the over all architecture for xray4j.</responsibilities>
