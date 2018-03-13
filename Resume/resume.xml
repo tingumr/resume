@@ -109,6 +109,7 @@
 		    <responsibilities>Design the over all architecture for xray4j.</responsibilities>
 		    <responsibilities>Implement the java agent and  aspects used to collect data from the JVM and save them to a file.</responsibilities>
 		    <responsibilities>Help implement the UI using AngularJS.</responsibilities>
+				<responsibilities>Design processors for uploaded scans as a collection of decoupled microservices.</responsibilities>
 				<responsibilities>Create AspectJ instrumentation configuration for ATG Commerce, Hybris, Broadleaf Commerce.</responsibilities>
 		    <responsibilities>Design algorithms that represent the collected data from the JVM as easily understandable connected graphs.</responsibilities>
 		    <responsibilities>Implement code that displays the most expensive paths for the control flow within a JVM.</responsibilities>
