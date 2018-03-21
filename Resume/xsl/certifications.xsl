@@ -15,20 +15,16 @@ Certifications
 			<span class="edu_course_value">
 			<xsl:value-of select="name" />
 			</span>
-		
+
 			</div>
 			<div class="info">
 			<span class="value">
-			<xsl:value-of select="date" />
+			<!--<xsl:value-of select="date" />-->
 			</span>
-		
+
 			</div>
 	</xsl:for-each>
 </div>
 </xsl:template>
 
 </xsl:stylesheet>
-
-
-
-

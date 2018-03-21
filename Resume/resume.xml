@@ -4,8 +4,9 @@
 	<title>Resume</title>
 	<summary>
 		<info>Over 10 years of professional experience in developing B2B and B2C Commerce web applications and Enterprise Application Integration.</info>
-		<info>Consulting experience working with teams to scale and performance tune web applications with annual revenue in the Billions.</info>
+		<info>Consulting experience working with teams to scale and performance tune large scale web applications.</info>
 		<info>Agile practitioner who has experience in Technical Training and Team leadership.</info>
+		<info>In-depth Java experience writing JVM agents and bytecode instrumentation.</info>
 	</summary>
 	<personalInfo>
 		<name>Tingu Ravi</name>
@@ -133,6 +134,10 @@
 		      <name>AWS S3</name>
 		      <proficiency/>
 		    </technology>
+				<technology>
+					<name>Java 8</name>
+					<proficiency/>
+				</technology>
 		  </project>
 		</experience>
 		<experience>
@@ -163,10 +168,22 @@
 		      <name>SAP Hybris</name>
 		      <proficiency/>
 		    </technology>
+				<technology>
+		      <name>Spring</name>
+		      <proficiency/>
+		    </technology>
 		    <technology>
 		      <name>Git</name>
 		      <proficiency/>
 		    </technology>
+				<technology>
+					<name>Java 8</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>SOAP Webservices</name>
+					<proficiency/>
+				</technology>
 		  </project>
 		</experience>
 		<experience>
@@ -198,7 +215,7 @@
 				<responsibilities>Implement RESTful webservices required by the application.</responsibilities>
 				<responsibilities>Architect the noSQL persistance layer used by the application.</responsibilities>
 				<technology>
-					<name>Apache Lucene</name>
+						<name>Apache Lucene</name>
 					<proficiency/>
 				</technology>
 				<technology>
@@ -215,6 +232,10 @@
 				</technology>
 				<technology>
 					<name>Selenium</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>Java 7</name>
 					<proficiency/>
 				</technology>
 			</project>
@@ -260,6 +281,10 @@
 					<name>Endeca</name>
 					<proficiency/>
 				</technology>
+				<technology>
+					<name>JDK1.6</name>
+					<proficiency/>
+				</technology>
 			</project>
 		</experience>
 	<experience>
@@ -295,6 +320,10 @@
 					<name>ATG DUST</name>
 					<proficiency/>
 				</technology>
+				<technology>
+					<name>JDK 1.5</name>
+					<proficiency/>
+				</technology>
 			</project>
 			<project>
 				<name>TESCO Change Program</name>
@@ -316,6 +345,10 @@
 				</technology>
 				<technology>
 					<name>ATG DUST</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>JDK 1.5</name>
 					<proficiency/>
 				</technology>
 			</project>
@@ -341,6 +374,10 @@
 				</technology>
 				<technology>
 					<name>ATG CSC</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>JDK 1.4</name>
 					<proficiency/>
 				</technology>
 			</project>
@@ -417,6 +454,10 @@
 					<name>eStara Click To Call</name>
 					<proficiency/>
 				</technology>
+				<technology>
+					<name>JDK 1.4</name>
+					<proficiency/>
+				</technology>
 			</project>
 
 			<project>
@@ -443,6 +484,11 @@
 					<name>JMS</name>
 					<proficiency/>
 				</technology>
+				<technology>
+					<name>JDK 1.4</name>
+					<proficiency/>
+				</technology>
+
 			</project>
 			<project>
 				<name>Esselte</name>
@@ -466,6 +512,10 @@
 					<name>Apache Axis</name>
 					<proficiency/>
 				</technology>
+				<technology>
+					<name>JDK 1.4</name>
+					<proficiency/>
+				</technology>
 			</project>
 			<project>
 				<name>Sage Publications</name>
@@ -485,7 +535,7 @@
 				</technology>
 				<technology>
 					<name>Spring</name>
-					<proficiency/>
+				<proficiency/>
 				</technology>
 				<technology>
 					<name>XStream API</name>
@@ -493,6 +543,10 @@
 				</technology>
 				<technology>
 					<name>Oracle</name>
+					<proficiency/>
+				</technology>
+				<technology>
+					<name>JDK 1.4</name>
 					<proficiency/>
 				</technology>
 			</project>
@@ -871,10 +925,6 @@
 				<name>Java Script</name>
 				<proficiency/>
 			</technology>
-			<technology>
-				<name>Python</name>
-				<proficiency/>
-			</technology>
 		</technologyArea>
 		<technologyArea>
 			<name>Other</name>
@@ -915,15 +965,19 @@
 				<proficiency/>
 			</technology>
 			<technology>
-				<name>Spring</name>
-				<proficiency/>
-			</technology>
-			<technology>
 				<name>Apache Lucene</name>
 				<proficiency/>
 			</technology>
 			<technology>
 				<name>Memcached</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Microservices</name>
+				<proficiency/>
+			</technology>
+			<technology>
+				<name>Webservices</name>
 				<proficiency/>
 			</technology>
 		</technologyArea>

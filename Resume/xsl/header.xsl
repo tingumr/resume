@@ -6,47 +6,45 @@
 	<div id="headerinfo">
 		<div class="info">
 			<span class="value">
-				<xsl:value-of select="/resume/personalInfo/name" />	
+				<xsl:value-of select="/resume/personalInfo/name" />
 			</span>
-		</div>	
-		<!-- 	
+		</div>
+		<!--
 		<div class="info">
 			<span class="value">
 				ATG Consultant
 			</span>
-			
-		</div>	
+
+		</div>
 		 -->
 
 		<div class="info">
 			<span class="hlabel">
 			Phone
 			</span>
-			
+
 			<span class="value">
-				<xsl:value-of select="/resume/personalInfo/phone" />	
+				<xsl:value-of select="/resume/personalInfo/phone" />
 			</span>
-			
-			
-		</div>	
-		
+
+
+		</div>
+
 		<div class="info">
 			<span class="hlabel">
 			Email
 			</span>
-			
-			<span class="value">
-				<xsl:value-of select="/resume/personalInfo/email" />	
-			</span>
-		</div>	
 
-		
+			<span class="value">
+				<xsl:value-of select="/resume/personalInfo/email" />
+			</span>
+		</div>
+
+
 	</div>
 
 		<div class="sun_logo">
-			<img src="images/ComCrop.gif" />
-			<img src="images/RMCrop.gif"  />
-			<img src="images/sun_logo_crop.gif"  />
+
 		</div>
 		<div>
 		<br />
@@ -55,7 +53,3 @@
 </div>
 </xsl:template>
 </xsl:stylesheet>
-
-
-
-
