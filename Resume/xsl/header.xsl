@@ -44,7 +44,7 @@
 	</div>
 
 		<div class="sun_logo">
-
+			<img src="images/animal.png"/>
 		</div>
 		<div>
 		<br />
