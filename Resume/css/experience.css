@@ -68,6 +68,12 @@ left:200px;
 font-weight:bold;
 font-size:140%;
 }
+.company_location
+{
+	font-weight:lighter;
+	font-size:80%;
+	margin-left:20px;
+}
 
 .divider1
 {

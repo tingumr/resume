@@ -1,5 +1,5 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="resume.xsl"?>
+<?xml-stylesheet type="text/xsl" href="resumemini.xsl"?>
 <resume xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation = "resume.xsd">
 	<title>Resume</title>
 	<summary>
@@ -123,6 +123,10 @@
 		    </technology>
 		    <technology>
 		      <name>Selenium</name>
+		      <proficiency/>
+		    </technology>
+			<technology>
+		      <name>Spring Boot</name>
 		      <proficiency/>
 		    </technology>
 		  </project>
