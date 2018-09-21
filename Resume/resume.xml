@@ -86,6 +86,47 @@
 		</course>
 	</education>
 	<workExperience>
+			<experience>
+		  <designation>Architect</designation>
+		  <company>
+		    <name>BestBuy Canada</name>
+		    <addressPremanent>
+		      <AddressLine>Glenlyon Pkwy</AddressLine>
+		      <City>Burnaby</City>
+		      <State>British Columbia</State>
+		      <Country>Canada</Country>
+		      <zip>V5J 5K3</zip>
+		    </addressPremanent>
+		  </company>
+		  <startDate>15 April 2018</startDate>
+		  <endDate>Currently Working</endDate>
+		  <project>
+		    <name>BestBuy CRM Applications</name>
+		    <description>Work as Java Openshift microservices developer on projects for the Bestbuy CRM team.</description>
+		    <startDate>April 2018</startDate>
+		    <endDate>Currently Working</endDate>
+				<client>BestBuy.ca</client>
+		    <URL>https://www.bestbuy.ca</URL>
+		    <responsibilities>Develop openshift spring boot based microservcies used by the Bestbuy CRM projects.</responsibilities>
+		    <responsibilities>Build automation testing framework for use withing the team to test React based web applications.</responsibilities>
+		    <technology>
+		      <name>Java</name>
+		      <proficiency/>
+		    </technology>
+		    <technology>
+		      <name>Openshift</name>
+		      <proficiency/>
+		    </technology>
+		    <technology>
+		      <name>Microservices</name>
+		      <proficiency/>
+		    </technology>
+		    <technology>
+		      <name>Selenium</name>
+		      <proficiency/>
+		    </technology>
+		  </project>
+		</experience>
 		<experience>
 		  <designation>Architect</designation>
 		  <company>
